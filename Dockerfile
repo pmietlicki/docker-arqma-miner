@@ -1,4 +1,4 @@
-FROM  pmietlicki/xmrig
+FROM  pmietlicki/xmrig:ubuntu
 
 # Configuration variables.
 ENV POOL_URL    		arqma.herominers.com:10641
